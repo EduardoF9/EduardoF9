@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**EduardoF9/EduardoF9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Habilidades
 
-Here are some ideas to get you started:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" />
+          
+### Detalhes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoF9&show=reviews&show_icons=true&theme=radical)
+
+### Linguagens
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoF9&hide_progress=true)
+
+### Contato
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg"  width="100">](https://www.linkedin.com/in/eduardo-dietrich/)
+
+          
+          
